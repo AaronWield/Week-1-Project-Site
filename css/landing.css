@@ -1,0 +1,102 @@
+.company_logo{
+    padding-left: 80px;
+}
+
+.separate-images{
+    padding-left: 260px;
+}
+
+#placeholder_2{
+    margin-left: 20px;
+}
+
+.navbar-nav{
+    padding-left:100px
+}
+
+.nav-item{
+    margin-left: 30px;
+    font-weight: 600;
+}
+
+.Focus p{
+    font-size: larger;
+    color: gray;
+}
+
+#placeholder_4{
+    margin-left: 20px;
+}
+
+.doubletap{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#trial{
+    font-size: smaller;
+    color: black;
+}
+
+#first_left{
+    margin-left: 150px;
+}
+
+#big_header{
+    width: 450px;
+}
+
+hr {
+    border:none;
+    border-top:1px solid;/* or bottom */
+    margin:1em 30%; /* 15% or whatever fixed or % value that suits your needs*/
+    text-align: center;    
+
+}
+
+.Explore{
+    text-align: center;
+}
+
+#placeholder_6{
+    margin-left: 80px;
+}
+
+
+#credit_pic{
+    
+    width:300px;
+    
+}
+
+.bullet_box{
+
+    background-color: blue;
+    color: white;
+    padding-bottom: 100px;
+    
+}
+
+#placeholder_7{
+    padding-left: 20px;
+}
+
+.bullet_box ul{
+    font-size: x-small;
+}
+
+.combo{
+    border-style: groove;
+}
+
+.Solutions{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 150px;
+    background-color: blue;
+    color: white;
+    padding-bottom: 200px;
+}
